@@ -1,4 +1,4 @@
-def main():
-    print("Hello, world.")
+def getCustomer():
+    return "Marcel Dempers"
 
-main()
+print (getCustomer())
